@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000 
+  secret: 'my-long-token-secret-key-1234567890'
+
+gateway:
+  ip: 172.18.0.1
