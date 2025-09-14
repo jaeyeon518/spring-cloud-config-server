@@ -19,4 +19,4 @@ logging:
     org.springframework.security: DEBUG
 
 jwt:
-  secret: changed-remote-config-user-service-secret
+  secret: rechanged-remote-config-user-service-secret
