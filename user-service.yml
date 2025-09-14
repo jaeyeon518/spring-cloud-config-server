@@ -17,3 +17,6 @@ spring:
 logging:
   level:
     org.springframework.security: DEBUG
+
+jwt:
+  secret: remote-config-user-service-secret
