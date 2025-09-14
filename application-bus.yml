@@ -1,7 +1,14 @@
 token:
   expiration_time: 864000000 
   secret: my-very-long-secret-key-1234567890123456-from-remote-repo-bus
-  ssss: '{cipher}654fa110e03ec6a3ca7a3fb9cb92e60154f7ca1e6a1bfbc9f06fbd20a597cb57'
 
 gateway:
   ip: 192.168.0.8
+
+spring:
+  application:
+    rabbitmq:
+      host: '{cipher}e4f7d0b61fa7d38950b0fda09eb343cadf833a166094d7a8b1996a5aa8f520f9'
+      port: '{cipher}3f6210ab9efe2f2917a3ee3bc5a7e47a1db44882466df73f41ba874a726bee26'
+      username: '{cipher}64356b0eff6f1f03cbfcca5cca4e652b82211433579169c56908576e240a6c5e'
+      password: '{cipher}54af1e916278957594f56f7bc672ed9a69abbc24be859ad8ec500a87f05d7d68'
