@@ -9,6 +9,6 @@ spring:
   application:
     rabbitmq:
       host: '{cipher}e4f7d0b61fa7d38950b0fda09eb343cadf833a166094d7a8b1996a5aa8f520f9'
-      port: '{cipher}3f6210ab9efe2f2917a3ee3bc5a7e47a1db44882466df73f41ba874a726bee26'
+      port: '{cipher}3f47ace9416886ebb7e4114b4da1917704c19e8a98c015400718b4cc282c9679'
       username: '{cipher}64356b0eff6f1f03cbfcca5cca4e652b82211433579169c56908576e240a6c5e'
       password: '{cipher}54af1e916278957594f56f7bc672ed9a69abbc24be859ad8ec500a87f05d7d68'
