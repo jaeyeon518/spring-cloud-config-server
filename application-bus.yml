@@ -1,0 +1,7 @@
+token:
+  expiration_time: 864000000 
+  secret: my-very-long-secret-key-1234567890123456-from-remote-repo-bus
+  ssss: '{cipher}654fa110e03ec6a3ca7a3fb9cb92e60154f7ca1e6a1bfbc9f06fbd20a597cb57'
+
+gateway:
+  ip: 192.168.0.8
